@@ -2,7 +2,7 @@ name: Actualizador de Eventos para Blogger
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Se ejecuta automáticamente cada 30 minutos
+    - cron: '0 */3 * * *' # Se ejecuta automáticamente cada 30 minutos
   workflow_dispatch: # Permite ejecutarlo manualmente con un botón
 
 permissions:
