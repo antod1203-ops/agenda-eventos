@@ -35,9 +35,9 @@ jobs:
         if [ -f "eventos_organizados.json" ]; then
           git add eventos_organizados.json
           git commit -m "Eventos actualizados automáticamente" && git push || echo "No hay cambios nuevos para subir"
-        elif [ -f "eventos_organizados.txt" ]; then
+        elif [ -f "eventos_organizados.json" ]; then
           # Por si acaso el script sigue generando el archivo .txt
-          git add eventos_organizados.txt
+          git add eventos_organizados.json
           git commit -m "Eventos actualizados automáticamente (.txt)" && git push || echo "No hay cambios nuevos para subir"
         else
           echo "ERROR: El script no generó ningún archivo de salida. Revisa las conexiones del script."
