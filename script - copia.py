@@ -1,43 +1,78 @@
-name: Actualizador de Eventos para Blogger
+import requests
+import json
 
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+def limpiar_categoria(category):
+    if not category:
+        return ""
+    category_str = str(category).strip().lower()
+    if "futbol" in category_str or "fútbol" in category_str:
+        return "Futbol"
+    return str(category).strip()
 
-permissions:
-  contents: write
+def extraer_y_organizar_eventos():
+    urls = [
+        "https://la14hd.com/eventos/json/agenda123.json",
+        "https://streamtp-abc.net/eventos.json"
+    ]
+    
+    eventos_consolidados = []
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Clonar repositorio
-      uses: actions/checkout@v4 # Esto elimina la advertencia de checkout
+    for url in urls:
+        try:
+            print(f"Conectando a: {url}...")
+            response = requests.get(url, headers=headers, timeout=15)
+            response.raise_for_status()
+            data = response.json()
+            
+            eventos_lista = []
+            if isinstance(data, list):
+                eventos_lista = data
+            elif isinstance(data, dict):
+                for clave, valor in data.items():
+                    if isinstance(valor, list):
+                        eventos_lista = valor
+                        break
+                if not eventos_lista:
+                    eventos_lista = [data]
+            
+            for item in eventos_lista:
+                title = item.get("title") or item.get("nombre") or item.get("evento") or ""
+                time = item.get("time") or item.get("hora") or item.get("inicio") or ""
+                category = item.get("category") or item.get("categoria") or item.get("deporte") or ""
+                status = item.get("status") or item.get("estado") or ""
+                link = item.get("link") or item.get("url") or item.get("stream") or ""
+                language = item.get("language") or item.get("idioma") or ""
+                
+                category_limpia = limpiar_categoria(category)
+                
+                evento_formateado = {
+                    "title": str(title).strip(),
+                    "time": str(time).strip(),
+                    "category": category_limpia,
+                    "status": str(status).strip(),
+                    "link": str(link).strip(),
+                    "language": str(language).strip()
+                }
+                eventos_consolidados.append(evento_formateado)
+                
+        except requests.exceptions.RequestException as e:
+            print(f"Error al conectar con {url}: {e}")
+        except json.JSONDecodeError:
+            print(f"Error al procesar el formato JSON de {url}.")
+        except Exception as e:
+            print(f"Ocurrió un error inesperado con {url}: {e}")
 
-    - name: Configurar Python
-      uses: actions/setup-python@v5 # Esto elimina la advertencia de python
-      with:
-        python-version: '3.10'
+    # Guardar en formato JSON para Blogger
+    archivo_salida = "eventos_organizados.json"
+    try:
+        with open(archivo_salida, "w", encoding="utf-8") as f:
+            json.dump(eventos_consolidados, f, indent=4, ensure_ascii=False)
+        print(f"\n¡Completado con éxito! Se guardaron {len(eventos_consolidados)} eventos.")
+    except IOError as e:
+        print(f"Error al escribir el archivo de salida: {e}")
 
-    - name: Instalar librerías necesarias
-      run: pip install requests
-
-    - name: Ejecutar script extractor
-      run: python "script - copia.py"
-
-    - name: Guardar cambios y subirlos a GitHub
-      run: |
-        git config --global user.name 'Blogger Bot'
-        git config --global user.email 'bot@github.com'
-        
-        if [ -f "eventos_organizados.json" ]; then
-          git add eventos_organizados.json
-          git commit -m "Eventos actualizados automáticamente" && git push || echo "No hay cambios nuevos"
-        elif [ -f "eventos_organizados.txt" ]; then
-          git add eventos_organizados.txt
-          git commit -m "Eventos actualizados automáticamente (.txt)" && git push || echo "No hay cambios nuevos"
-        else
-          echo "ERROR: El script no generó ningún archivo de salida. Revisa las conexiones del script."
-          exit 1
-        fi
+if __name__ == "__main__":
+    extraer_y_organizar_eventos()
