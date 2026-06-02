@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Clonar repositorio
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4 # Esto elimina la advertencia de checkout
 
     - name: Configurar Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v5 # Esto elimina la advertencia de python
       with:
         python-version: '3.10'
 
@@ -31,14 +31,12 @@ jobs:
         git config --global user.name 'Blogger Bot'
         git config --global user.email 'bot@github.com'
         
-        # Comprobamos si el archivo JSON existe antes de agregarlo
         if [ -f "eventos_organizados.json" ]; then
           git add eventos_organizados.json
-          git commit -m "Eventos actualizados automáticamente" && git push || echo "No hay cambios nuevos para subir"
-        elif [ -f "eventos_organizados.json" ]; then
-          # Por si acaso el script sigue generando el archivo .txt
-          git add eventos_organizados.json
-          git commit -m "Eventos actualizados automáticamente (.txt)" && git push || echo "No hay cambios nuevos para subir"
+          git commit -m "Eventos actualizados automáticamente" && git push || echo "No hay cambios nuevos"
+        elif [ -f "eventos_organizados.txt" ]; then
+          git add eventos_organizados.txt
+          git commit -m "Eventos actualizados automáticamente (.txt)" && git push || echo "No hay cambios nuevos"
         else
           echo "ERROR: El script no generó ningún archivo de salida. Revisa las conexiones del script."
           exit 1
