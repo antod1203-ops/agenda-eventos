@@ -2,7 +2,7 @@ name: Actualizador de Eventos para Blogger
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Sigue a 5 minutos para las pruebas rápidas
+    - cron: '*0 */3 * * *' # Sigue a 5 minutos para las pruebas rápidas
   workflow_dispatch: # Botón manual por si acaso
 
 permissions:
