@@ -2,21 +2,21 @@ name: Actualizador de Eventos para Blogger
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # ¡ACELERADO! Se ejecuta automáticamente cada 5 minutos
-  workflow_dispatch: # Permite ejecutarlo manualmente con el botón si tienes prisa
+    - cron: '*/5 * * * *' # Sigue a 5 minutos para las pruebas rápidas
+  workflow_dispatch: # Botón manual por si acaso
 
 permissions:
-  contents: write # Permiso explícito para escribir cambios en el repositorio
+  contents: write # Permiso para escribir cambios
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - name: Clonar repositorio
-      uses: actions/checkout@v4 # Evita advertencias de Node.js antiguas
+      uses: actions/checkout@v4
 
     - name: Configurar Python
-      uses: actions/setup-python@v5 # Evita advertencias de Node.js antiguas
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
@@ -27,7 +27,6 @@ jobs:
       run: |
         mkdir -p docs
         python "script - copia.py"
-        # Si el script genera el archivo en la raíz, lo movemos a docs para GitHub Pages
         if [ -f "eventos_organizados.json" ]; then
           mv eventos_organizados.json docs/
         fi
@@ -37,12 +36,11 @@ jobs:
         git config --global user.name 'Blogger Bot'
         git config --global user.email 'bot@github.com'
         
-        # Comprobamos que el archivo exista en docs/ antes de guardarlo
         if [ -f "docs/eventos_organizados.json" ]; then
           git add docs/eventos_organizados.json
           
-          # Intentamos hacer commit y push directamente a la rama principal detectada
-          git commit -m "Eventos actualizados automáticamente (Cada 5 min)" && git push || echo "No hay cambios nuevos en los eventos"
+          # FORZAMOS EL PUSH DIRECTAMENTE A ORIGIN MAIN
+          git commit -m "Eventos actualizados automáticamente (Cada 5 min)" && git push origin main || echo "No hay cambios nuevos en los eventos"
         else
           echo "ERROR: El script no generó el archivo esperado en docs/eventos_organizados.json"
           exit 1
