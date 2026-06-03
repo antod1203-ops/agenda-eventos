@@ -1,0 +1,37 @@
+name: Actualizador de Eventos para Blogger
+
+on:
+  schedule:
+    # Se ejecuta automáticamente cada 2 horas. 
+    # Puedes cambiar el '2' por '1' si lo quieres cada hora o '3' cada tres horas.
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Esto te permite activar el script manualmente con un botón cuando quieras
+
+jobs:
+  ejecutar-extractor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permiso clave para que GitHub pueda guardar el archivo .json modificado
+
+    steps:
+    - name: 1. Copiar los archivos del repositorio
+      uses: actions/checkout@v3
+
+    - name: 2. Instalar Python en el servidor
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: 3. Instalar libreria de peticiones (requests)
+      run: pip install requests
+
+    - name: 4. Ejecutar el script extractor
+      run: python script.py
+
+    - name: 5. Guardar y subir el archivo JSON actualizado
+      run: |
+        git config --global user.name 'GitHub Action Bot'
+        git config --global user.email 'actions@github.com'
+        git add eventos_organizados.json
+        git commit -m "JSON actualizado automáticamente por el servidor" || exit 0
+        git push
