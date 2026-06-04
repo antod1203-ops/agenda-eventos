@@ -4,7 +4,7 @@ on:
   schedule:
     # Se ejecuta automáticamente cada 2 horas. 
     # Puedes cambiar el '2' por '1' si lo quieres cada hora o '3' cada tres horas.
-    - cron: '*/20 * * * *'
+    - cron: '0 12,14,16 * * *'
   workflow_dispatch: # Esto te permite activar el script manualmente con un botón cuando quieras
 
 jobs:
