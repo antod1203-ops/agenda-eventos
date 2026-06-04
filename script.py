@@ -62,7 +62,7 @@ def extraer_y_organizar_eventos():
             print(f"Error con {url}: {e}")
 
     # CAMBIO: Guardamos como .json para que Blogger lo lea de forma nativa
-    archivo_salida = "eventos_organizados.json"
+    archivo_salida = "eventos.json"
     try:
         with open(archivo_salida, "w", encoding="utf-8") as f:
             json.dump(eventos_consolidados, f, indent=4, ensure_ascii=False)
