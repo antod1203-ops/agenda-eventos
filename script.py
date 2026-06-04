@@ -2,12 +2,9 @@ import requests
 import json
 
 def limpiar_categoria(category):
-    if not category:
-        return ""
-    category_str = str(category).strip().lower()
-    if "futbol" in category_str or "fútbol" in category_str:
+    if category and "futbol" in str(category).lower():
         return "Futbol"
-    return str(category).strip()
+    return str(category).strip() if category else ""
 
 def extraer_y_organizar_eventos():
     urls = [
@@ -16,57 +13,30 @@ def extraer_y_organizar_eventos():
     ]
     
     eventos_consolidados = []
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    }
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
     for url in urls:
         try:
-            print(f"Conectando a: {url}...")
             response = requests.get(url, headers=headers, timeout=15)
             response.raise_for_status()
             
-            data = response.json()
-            eventos_lista = []
-            if isinstance(data, list):
-                eventos_lista = data
-            elif isinstance(data, dict):
-                for clave, valor in data.items():
-                    if isinstance(valor, list):
-                        eventos_lista = valor
-                        break
-                if not eventos_lista:
-                    eventos_lista = [data]
-            
-            for item in eventos_lista:
-                title = item.get("title") or item.get("nombre") or item.get("evento") or ""
-                time = item.get("time") or item.get("hora") or item.get("inicio") or ""
-                category = item.get("category") or item.get("categoria") or item.get("deporte") or ""
-                status = item.get("status") or item.get("estado") or ""
-                link = item.get("link") or item.get("url") or item.get("stream") or ""
-                language = item.get("language") or item.get("idioma") or ""
-                
-                category_limpia = limpiar_categoria(category)
-                
-                evento_formateado = {
-                    "title": str(title).strip(),
-                    "time": str(time).strip(),
-                    "category": category_limpia,
-                    "status": str(status).strip(),
-                    "link": str(link).strip(),
-                    "language": str(language).strip()
-                }
-                eventos_consolidados.append(evento_formateado)
-                
+            # Al ser una lista directa de eventos, iteramos directamente
+            for item in response.json():
+                eventos_consolidados.append({
+                    "title": str(item.get("title") or item.get("nombre") or "").strip(),
+                    "time": str(item.get("time") or item.get("hora") or "").strip(),
+                    "category": limpiar_categoria(item.get("category") or item.get("categoria")),
+                    "status": str(item.get("status") or "").strip(),
+                    "link": str(item.get("link") or item.get("url") or "").strip(),
+                    "language": str(item.get("language") or "").strip()
+                })
         except Exception as e:
             print(f"Error con {url}: {e}")
 
-    # CAMBIO: Guardamos como .json para que Blogger lo lea de forma nativa
-    archivo_salida = "eventos.json"
     try:
-        with open(archivo_salida, "w", encoding="utf-8") as f:
+        with open("eventos.json", "w", encoding="utf-8") as f:
             json.dump(eventos_consolidados, f, indent=4, ensure_ascii=False)
-        print(f"\n¡Éxito! Guardados {len(eventos_consolidados)} eventos.")
+        print(f"Éxito: Guardados {len(eventos_consolidados)} eventos.")
     except IOError as e:
         print(f"Error al escribir: {e}")
 
