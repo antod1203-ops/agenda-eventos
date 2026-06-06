@@ -1,10 +1,18 @@
 [
     {
-        "title": "Torneo Maurice Revello Sub-20: Portugal vs Costa de Marfil",
-        "time": "11:30",
+        "title": "Amistoso Internacional Femenino: Brasil vs EE. UU.",
+        "time": "16:30",
         "category": "Futbol",
         "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=foxdeportes",
+        "link": "https://la18hd.com/vivo/canales.php?stream=espn",
+        "language": "Español"
+    },
+    {
+        "title": "Amistoso Internacional Femenino: Brasil vs EE. UU.",
+        "time": "16:30",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=disney19",
         "language": "Español"
     },
     {
@@ -176,44 +184,20 @@
         "language": "español"
     },
     {
-        "title": "Amistoso: Portugal vs Chile",
-        "time": "12:45",
-        "category": "Fútbol",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espn",
-        "language": ""
+        "title": "Amistoso: Bolivia vs Escocia",
+        "time": "15:00",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=espn3mx",
+        "language": "Español"
     },
     {
-        "title": "Amistoso: Portugal vs Chile",
-        "time": "12:45",
-        "category": "Fútbol",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney9",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Portugal vs Chile",
-        "time": "12:45",
-        "category": "Fútbol",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=vix1",
-        "language": ""
-    },
-    {
-        "title": "Primera Divisón: Torque vs Deportivo Maldonado",
-        "time": "13:00",
-        "category": "Other",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney10",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Albania vs Luxemburgo",
-        "time": "13:00",
-        "category": "Fútbol",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney11",
-        "language": ""
+        "title": "Primera Divisón: Nacional vs Juventud",
+        "time": "16:30",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=disney18",
+        "language": "Español"
     },
     {
         "title": "Amistoso: EE. UU. vs Alemania",
@@ -243,7 +227,7 @@
         "title": "Amistoso: Inglaterra vs Nueva Zelanda",
         "time": "15:00",
         "category": "Fútbol",
-        "status": "pronto",
+        "status": "en vivo",
         "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney14",
         "language": ""
     },
@@ -251,7 +235,7 @@
         "title": "Amistoso: Bolivia vs Escocia",
         "time": "15:00",
         "category": "Fútbol",
-        "status": "pronto",
+        "status": "en vivo",
         "link": "https://streamtp-x-y-z.ws/global1.php?stream=espndeportes",
         "language": ""
     },
@@ -259,7 +243,7 @@
         "title": "Amistoso: Bolivia vs Escocia",
         "time": "15:00",
         "category": "Fútbol",
-        "status": "pronto",
+        "status": "en vivo",
         "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney15",
         "language": ""
     },
@@ -267,7 +251,7 @@
         "title": "UFC: Belal Muhammad vs Gabriel Bonfim",
         "time": "15:00",
         "category": "UFC",
-        "status": "pronto",
+        "status": "en vivo",
         "link": "https://streamtp-x-y-z.ws/global1.php?stream=paramount1",
         "language": "Español"
     },
@@ -275,7 +259,7 @@
         "title": "UFC: Belal Muhammad vs Gabriel Bonfim",
         "time": "15:00",
         "category": "UFC",
-        "status": "pronto",
+        "status": "en vivo",
         "link": "https://streamtp-x-y-z.ws/global1.php?stream=paramount2",
         "language": "Portugués"
     },
@@ -283,7 +267,7 @@
         "title": "UFC: Belal Muhammad vs Gabriel Bonfim",
         "time": "15:00",
         "category": "UFC",
-        "status": "pronto",
+        "status": "en vivo",
         "link": "https://streamtp-x-y-z.ws/global1.php?stream=paramount3",
         "language": "English"
     },
