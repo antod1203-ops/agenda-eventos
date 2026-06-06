@@ -8,7 +8,7 @@ def limpiar_categoria(category):
 
 def extraer_y_organizar_eventos():
     urls = [
-        "https://la14hd.com/eventos/json/agenda123.json",
+        "http://la18hd.com//eventos/json/agenda123.json",
         "https://streamtp-x-y-z.ws/eventos.json"
     ]
     
