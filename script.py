@@ -180,7 +180,7 @@ def procesar_agendas(fecha_por_defecto="2026-06-07"):
     )
 
     # --- GUARDAR EN EL JSON FINAL ---
-    archivo_salida = 'agenda.json'
+    archivo_salida = 'eventos.json'
     with open(archivo_salida, 'w', encoding='utf-8') as f:
         json.dump(eventos_ordenados, f, ensure_ascii=False, indent=4)
         
