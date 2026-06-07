@@ -1,354 +1,338 @@
 [
     {
-        "title": "Amistoso Internacional Femenino: Brasil vs EE. UU.",
-        "time": "16:30",
+        "title": "Segunda División:Cerrito vs Atenas",
+        "time": "11:00",
         "category": "Futbol",
         "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=espn",
+        "link": "https://la18hd.com/vivo/canales.php?stream=disney5",
         "language": "Español"
     },
     {
-        "title": "Amistoso Internacional Femenino: Brasil vs EE. UU.",
-        "time": "16:30",
+        "title": "Copa de la Liga: La Serena vs Unión La Calera",
+        "time": "11:30",
         "category": "Futbol",
         "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney19",
+        "link": "https://la18hd.com/vivo/canales.php?stream=tntsportschile",
         "language": "Español"
     },
     {
-        "title": "Amistoso: Gibraltar vs Islas Caimán",
-        "time": "12:00",
+        "title": "Copa de la Liga: La Serena vs Unión La Calera",
+        "time": "11:30",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la14hd.com/vivo/canales.php?stream=max1",
+        "language": "Español"
+    },
+    {
+        "title": "Copa de la Liga: Universidad Chile vs Audax Italiano",
+        "time": "11:30",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=max2",
+        "language": "Español"
+    },
+    {
+        "title": "Amistoso: Dinamarca vs Ucrania",
+        "time": "11:30",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la14hd.com/vivo/canales.php?stream=disney6",
+        "language": "Español"
+    },
+    {
+        "title": "Amistoso: Dinamarca vs Ucrania",
+        "time": "11:30",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=sportv",
+        "language": "Portugués"
+    },
+    {
+        "title": "Amistoso: Dinamarca vs Ucrania",
+        "time": "11:30",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=foxsports2_usa",
+        "language": "Inglés"
+    },
+    {
+        "title": "Amistoso: Kosovo vs Andorra",
+        "time": "13:00",
         "category": "Futbol",
         "status": "En vivo",
         "link": "https://la18hd.com/vivo/canales.php?stream=disney7",
         "language": "Español"
     },
     {
-        "title": "Amistoso: Portugal vs Chile",
-        "time": "12:45",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=espn",
-        "language": "Español"
-    },
-    {
-        "title": "Amistoso: Portugal vs Chile",
-        "time": "12:45",
+        "title": "Primera Divisón: Cerro vs Peñarol",
+        "time": "13:00",
         "category": "Futbol",
         "status": "En vivo",
         "link": "https://la18hd.com/vivo/canales.php?stream=disney8",
         "language": "Español"
     },
     {
-        "title": "Amistoso: Rumania vs Gales",
-        "time": "12:45",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney9",
-        "language": "Español"
-    },
-    {
-        "title": "Amistoso: Albania vs Luxemburgo",
-        "time": "13:00",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la14hd.com/vivo/pl.php?stream=disney10pl",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Albania vs Luxemburgo",
-        "time": "13:00",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney10",
-        "language": "Español"
-    },
-    {
-        "title": "Primera Divisón: Torque vs Deportivo Maldonado",
-        "time": "13:00",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney11",
-        "language": "Español"
-    },
-    {
-        "title": "Segunda División: La Luz vs Paysandu",
-        "time": "13:00",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney12",
-        "language": "Español"
-    },
-    {
-        "title": "Amistoso: EE. UU. vs Alemania",
-        "time": "13:30",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney13",
-        "language": "Español"
-    },
-    {
-        "title": "Amistoso: EE. UU. vs Alemania",
-        "time": "13:30",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=espnmx",
-        "language": "Español"
-    },
-    {
-        "title": "Amistoso: EE. UU. vs Alemania",
-        "time": "13:30",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbCh1bml2ZXJzby1lYXN0KS9tYXN0ZXIubXBk&k=OTZiNjdmYTA5MTQwMzI5YTg5YjdhMWVhZDEzNGVkYTM6YzYxOGQzMmM1NmNkYzZjYWQ4MzMwZWI5ODUwN2NhM2Y=",
-        "language": "Español"
-    },
-    {
-        "title": "Amistoso: EE. UU. vs Alemania",
-        "time": "13:30",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY=",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Suiza vs Australia",
-        "time": "14:00",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney14",
-        "language": "Español"
-    },
-    {
-        "title": "Amistoso: Panamá vs Bosnia-Herzegovina",
-        "time": "14:00",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=eventos4",
-        "language": "español"
-    },
-    {
-        "title": "LaLiga SmartBank: CD Castellon vs Almería",
-        "time": "14:00",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=espn5",
-        "language": "español"
-    },
-    {
-        "title": "LaLiga SmartBank: CD Castellon vs Almería",
-        "time": "14:00",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney15",
-        "language": "Español"
-    },
-    {
-        "title": "LaLiga SmartBank: CD Castellon vs Almería",
-        "time": "14:00",
-        "category": "Futbol",
-        "status": "En vivo",
-        "link": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn5tv.html",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Inglaterra vs Nueva Zelanda",
-        "time": "15:00",
+        "title": "Amistoso: Croacia vs Eslovenia",
+        "time": "13:45",
         "category": "Futbol",
         "status": "En vivo",
         "link": "https://la18hd.com/vivo/canales.php?stream=espn",
         "language": "Español"
     },
     {
-        "title": "Amistoso: Inglaterra vs Nueva Zelanda",
-        "time": "15:00",
+        "title": "Amistoso: Croacia vs Eslovenia",
+        "time": "13:45",
         "category": "Futbol",
         "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney16",
+        "link": "https://la18hd.com/vivo/canales.php?stream=disney9",
         "language": "Español"
     },
     {
-        "title": "Amistoso: Bolivia vs Escocia",
-        "time": "15:00",
+        "title": "Amistoso: Croacia vs Eslovenia",
+        "time": "13:45",
         "category": "Futbol",
         "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney17",
+        "link": "https://la18hd.com/vivo/canales.php?stream=sportv",
+        "language": "Portugués"
+    },
+    {
+        "title": "Amistoso: Croacia vs Eslovenia",
+        "time": "13:45",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=foxsports2_usa",
+        "language": "Inglés"
+    },
+    {
+        "title": "Amistoso: Grecia vs Italia",
+        "time": "14:00",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=disney10",
         "language": "Español"
     },
     {
-        "title": "Amistoso: Bolivia vs Escocia",
-        "time": "15:00",
+        "title": "Amistoso: Marruecos vs Noruega",
+        "time": "14:00",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=tycsports",
+        "language": "español"
+    },
+    {
+        "title": "Amistoso: Marruecos vs Noruega",
+        "time": "14:00",
         "category": "Futbol",
         "status": "En vivo",
         "link": "https://la18hd.com/vivo/canales.php?stream=espndeportes",
         "language": "español"
     },
     {
-        "title": "Amistoso: Bolivia vs Escocia",
+        "title": "Amistoso: Ecuador vs Guatemala",
         "time": "15:00",
         "category": "Futbol",
         "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=espn3mx",
-        "language": "Español"
+        "link": "https://la18hd.com/vivo/canales.php?stream=clarosports1",
+        "language": ""
     },
     {
-        "title": "Primera Divisón: Nacional vs Juventud",
+        "title": "Primera Divisón: Defensor Sporting vs Boston River",
         "time": "16:30",
         "category": "Futbol",
         "status": "En vivo",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney18",
+        "link": "https://la18hd.com/vivo/canales.php?stream=disney11",
         "language": "Español"
     },
     {
-        "title": "Amistoso: EE. UU. vs Alemania",
-        "time": "13:30",
-        "category": "Fútbol",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney12",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Suiza vs Australia",
-        "time": "14:00",
-        "category": "Fútbol",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney13",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Panamá vs Bosnia-Herzegovina",
-        "time": "14:00",
-        "category": "Fútbol",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/transmision4.php",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Inglaterra vs Nueva Zelanda",
-        "time": "15:00",
-        "category": "Fútbol",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney14",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Bolivia vs Escocia",
-        "time": "15:00",
-        "category": "Fútbol",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espndeportes",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Bolivia vs Escocia",
-        "time": "15:00",
-        "category": "Fútbol",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney15",
-        "language": ""
-    },
-    {
-        "title": "UFC: Belal Muhammad vs Gabriel Bonfim",
-        "time": "15:00",
-        "category": "UFC",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=paramount1",
+        "title": "Primera Divisón: Deportes Limache vs Everton",
+        "time": "17:00",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=tntsportschile",
         "language": "Español"
     },
     {
-        "title": "UFC: Belal Muhammad vs Gabriel Bonfim",
-        "time": "15:00",
-        "category": "UFC",
-        "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=paramount2",
+        "title": "Copa de la Liga: Huachipato vs Colo-Colo",
+        "time": "14:00",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=tntsportschile",
+        "language": "Español"
+    },
+    {
+        "title": "Copa de la Liga: Huachipato vs Colo-Colo",
+        "time": "14:00",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=max3",
+        "language": "Español"
+    },
+    {
+        "title": "Segunda División: Tacuarembó vs Uruguay Montevideo",
+        "time": "16:00",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=disney12",
+        "language": "Español"
+    },
+    {
+        "title": "Amistoso: Colombia vs Jordania",
+        "time": "18:00",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=caracol",
+        "language": "Español"
+    },
+    {
+        "title": "Amistoso: Colombia vs Jordania",
+        "time": "18:00",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=espndeportes",
+        "language": "español"
+    },
+    {
+        "title": "Amistoso: Colombia vs Jordania",
+        "time": "18:00",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=clarosports1",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Colombia vs Jordania",
+        "time": "18:00",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=sportv",
         "language": "Portugués"
     },
     {
-        "title": "UFC: Belal Muhammad vs Gabriel Bonfim",
-        "time": "15:00",
-        "category": "UFC",
+        "title": "Segunda División: Miramar Misiones vs Oriental",
+        "time": "19:00",
+        "category": "Futbol",
+        "status": "En vivo",
+        "link": "https://la18hd.com/vivo/canales.php?stream=disney13",
+        "language": "Español"
+    },
+    {
+        "title": "Copa de la Liga: La Serena vs Unión La Calera",
+        "time": "11:30",
+        "category": "Other",
         "status": "en vivo",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=paramount3",
-        "language": "English"
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=max1",
+        "language": ""
     },
     {
-        "title": "Primera Divisón: Nacional vs Juventud",
-        "time": "16:30",
+        "title": "Copa de la Liga: Universidad Chile vs Audax Italiano",
+        "time": "11:30",
         "category": "Other",
-        "status": "pronto",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney1",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Brasil vs Egipto",
-        "time": "17:00",
-        "category": "Fútbol",
-        "status": "pronto",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espn",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Brasil vs Egipto",
-        "time": "17:00",
-        "category": "Fútbol",
-        "status": "pronto",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espndeportes",
-        "language": ""
-    },
-    {
-        "title": "Amistoso: Venezuela vs Turquía",
-        "time": "17:00",
-        "category": "Fútbol",
-        "status": "pronto",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=vix1",
-        "language": ""
-    },
-    {
-        "title": "Primera Divisón: Ñublense vs Univ. Concepción",
-        "time": "17:00",
-        "category": "Other",
-        "status": "pronto",
+        "status": "en vivo",
         "link": "https://streamtp-x-y-z.ws/global1.php?stream=max2",
         "language": ""
     },
     {
-        "title": "Primera Divisón: Universidad Católica vs Cobresal",
-        "time": "17:00",
+        "title": "Amistoso: Dinamarca vs Ucrania",
+        "time": "11:30",
+        "category": "Fútbol",
+        "status": "en vivo",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney4",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Kosovo vs Andorra",
+        "time": "13:00",
+        "category": "Fútbol",
+        "status": "pronto",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney5",
+        "language": ""
+    },
+    {
+        "title": "Primera Divisón: Cerro vs Peñarol",
+        "time": "13:00",
+        "category": "Other",
+        "status": "pronto",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney6",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Croacia vs Eslovenia",
+        "time": "13:45",
+        "category": "Fútbol",
+        "status": "pronto",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney7",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Grecia vs Italia",
+        "time": "14:00",
+        "category": "Fútbol",
+        "status": "pronto",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney8",
+        "language": ""
+    },
+    {
+        "title": "Copa de la Liga: Huachipato vs Colo-Colo",
+        "time": "14:00",
         "category": "Other",
         "status": "pronto",
         "link": "https://streamtp-x-y-z.ws/global1.php?stream=max3",
         "language": ""
     },
     {
-        "title": "Primera Divisón: Argentina vs Honduras",
-        "time": "19:00",
+        "title": "Amistoso: Ecuador vs Guatemala",
+        "time": "15:00",
+        "category": "Fútbol",
+        "status": "pronto",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=eventos2",
+        "language": ""
+    },
+    {
+        "title": "Primera Divisón: Defensor Sporting vs Boston River",
+        "time": "16:30",
         "category": "Other",
+        "status": "pronto",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney9",
+        "language": ""
+    },
+    {
+        "title": "Primera Divisón: Deportes Limache vs Everton",
+        "time": "17:00",
+        "category": "Other",
+        "status": "pronto",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=max4",
+        "language": ""
+    },
+    {
+        "title": "Primera Divisón: O'Higgins vs Palestino",
+        "time": "17:00",
+        "category": "Other",
+        "status": "pronto",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=max5",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Colombia vs Jordania",
+        "time": "18:00",
+        "category": "Fútbol",
+        "status": "pronto",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=caracoltv",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Colombia vs Jordania",
+        "time": "18:00",
+        "category": "Fútbol",
+        "status": "pronto",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=rcnco",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Colombia vs Jordania",
+        "time": "18:00",
+        "category": "Fútbol",
         "status": "pronto",
         "link": "https://streamtp-x-y-z.ws/global1.php?stream=espndeportes",
-        "language": ""
-    },
-    {
-        "title": "Primera Divisón: Argentina vs Honduras",
-        "time": "19:00",
-        "category": "Other",
-        "status": "pronto",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
-        "language": ""
-    },
-    {
-        "title": "NHL: Vegas Golden Knights vs. Carolina Hurricanes",
-        "time": "19:00",
-        "category": "NHL",
-        "status": "pronto",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espn4",
-        "language": ""
-    },
-    {
-        "title": "Boxeo: Brandon Mosqueda vs. Isaac Aranda",
-        "time": "21:00",
-        "category": "BOX",
-        "status": "pronto",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espn",
         "language": ""
     }
 ]
