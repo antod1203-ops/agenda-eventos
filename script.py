@@ -1,5 +1,6 @@
 import json
 import base64
+import requests
 from datetime import datetime
 
 def extraer_url_limpia(url_completa):
@@ -51,18 +52,25 @@ def obtener_categoria_optima(titulo, cat_original):
         
     return cat_original.capitalize()
 
-def procesar_agendas(fecha_por_defecto="2026-06-07"):
+def procesar_agendas_web(fecha_por_defecto="2026-06-07"):
     eventos_normalizados = []
+    
+    # Cabeceras para simular una petición desde el navegador y evitar bloqueos (403 Forbidden)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
 
-    # --- 1. PROCESAR: streamtp-x-y-z.ws/eventos.json ---
+    # --- 1. PROCESAR: https://streamtp-x-y-z.ws/eventos.json ---
+    url1 = "https://streamtp-x-y-z.ws/eventos.json"
     try:
-        with open('eventos.json', 'r', encoding='utf-8') as f:
-            data = json.load(f)
+        print(f"Descargando desde: {url1}...")
+        response = requests.get(url1, headers=headers, timeout=15)
+        if response.status_code == 200:
+            data = response.json()
             for item in data:
                 titulo = " ".join(item.get("title", "").split()).strip()
                 link_final = extraer_url_limpia(item.get("link", ""))
                 
-                # Extraer nombre del canal desde el parámetro stream=
                 canal_sugerido = ""
                 if "stream=" in link_final:
                     canal_sugerido = link_final.split("stream=")[-1].upper()
@@ -73,16 +81,20 @@ def procesar_agendas(fecha_por_defecto="2026-06-07"):
                     "time": item.get("time", "00:00"),
                     "category": obtener_categoria_optima(titulo, item.get("category", "")),
                     "link": link_final,
-                    # CAMBIO: Ahora se guarda bajo la clave "nombre"
                     "nombre": canal_sugerido if canal_sugerido else item.get("language", "").capitalize()
                 })
-    except FileNotFoundError:
-        pass
+        else:
+            print(f"Error {response.status_code} al conectar con {url1}")
+    except Exception as e:
+        print(f"No se pudo acceder a {url1}. Error: {e}")
 
-    # --- 2. PROCESAR: la18hd.com/eventos/json/agenda123.json ---
+    # --- 2. PROCESAR: https://la18hd.com//eventos/json/agenda123.json ---
+    url2 = "https://la18hd.com//eventos/json/agenda123.json"
     try:
-        with open('agenda123.json', 'r', encoding='utf-8') as f:
-            data = json.load(f)
+        print(f"Descargando desde: {url2}...")
+        response = requests.get(url2, headers=headers, timeout=15)
+        if response.status_code == 200:
+            data = response.json()
             for item in data:
                 titulo = " ".join(item.get("title", "").split()).strip()
                 link_final = extraer_url_limpia(item.get("link", ""))
@@ -97,16 +109,20 @@ def procesar_agendas(fecha_por_defecto="2026-06-07"):
                     "time": item.get("time", "00:00"),
                     "category": obtener_categoria_optima(titulo, item.get("category", "")),
                     "link": link_final,
-                    # CAMBIO: Ahora se guarda bajo la clave "nombre"
                     "nombre": canal_sugerido if canal_sugerido else item.get("language", "")
                 })
-    except FileNotFoundError:
-        pass
+        else:
+            print(f"Error {response.status_code} al conectar con {url2}")
+    except Exception as e:
+        print(f"No se pudo acceder a {url2}. Error: {e}")
 
-    # --- 3. PROCESAR: streamhdx.com/eventos.json ---
+    # --- 3. PROCESAR: https://streamhdx.com//eventos.json ---
+    url3 = "https://streamhdx.com//eventos.json"
     try:
-        with open('eventos (1).json', 'r', encoding='utf-8') as f:
-            data = json.load(f)
+        print(f"Descargando desde: {url3}...")
+        response = requests.get(url3, headers=headers, timeout=15)
+        if response.status_code == 200:
+            data = response.json()
             for dia in data.get("dias", []):
                 fecha_iso = dia.get("fecha_iso", fecha_por_defecto)
                 for ev in dia.get("eventos", []):
@@ -121,16 +137,20 @@ def procesar_agendas(fecha_por_defecto="2026-06-07"):
                             "time": ev.get("hora", "00:00"),
                             "category": obtener_categoria_optima(titulo, categoria_original),
                             "link": link_final,
-                            # CAMBIO: Mapeo directo del nombre del canal original
                             "nombre": canal.get("nombre", "").strip()
                         })
-    except FileNotFoundError:
-        pass
+        else:
+            print(f"Error {response.status_code} al conectar con {url3}")
+    except Exception as e:
+        print(f"No se pudo acceder a {url3}. Error: {e}")
 
-    # --- 4. PROCESAR: pltvhd.com/diaries.json (Estructura Strapi) ---
+    # --- 4. PROCESAR: https://pltvhd.com/diaries.json ---
+    url4 = "https://pltvhd.com/diaries.json"
     try:
-        with open('diaries.json', 'r', encoding='utf-8') as f:
-            data = json.load(f)
+        print(f"Descargando desde: {url4}...")
+        response = requests.get(url4, headers=headers, timeout=15)
+        if response.status_code == 200:
+            data = response.json()
             for item in data.get("data", []):
                 attrs = item.get("attributes", {})
                 titulo = " ".join(attrs.get("diary_description", "").split()).strip()
@@ -156,7 +176,6 @@ def procesar_agendas(fecha_por_defecto="2026-06-07"):
                             "time": hora_corta,
                             "category": obtener_categoria_optima(titulo, ""),
                             "link": link_final,
-                            # CAMBIO: Mapeo directo del canal de la base de datos
                             "nombre": nombre_canal if nombre_canal else pais_idioma
                         })
                 else:
@@ -166,14 +185,16 @@ def procesar_agendas(fecha_por_defecto="2026-06-07"):
                         "time": hora_corta,
                         "category": obtener_categoria_optima(titulo, ""),
                         "link": "",
-                        # CAMBIO: Respaldo de idioma bajo la clave "nombre"
                         "nombre": pais_idioma
                     })
-    except FileNotFoundError:
-        pass
+        else:
+            print(f"Error {response.status_code} al conectar con {url4}")
+    except Exception as e:
+        print(f"No se pudo acceder a {url4}. Error: {e}")
 
     # --- ORDENAMIENTO ESTRICTO ---
-    # 1º Fecha (Asc), 2º Hora (Asc), 3º Título (Alfabético)
+    # Prioridad: 1º Fecha (Asc), 2º Hora (Asc), 3º Título (Alfabético)
+    print("\nOrganizando y ordenando los eventos globalmente...")
     eventos_ordenados = sorted(
         eventos_normalizados,
         key=lambda x: (x["fecha"], x["time"], x["title"].lower())
@@ -184,9 +205,10 @@ def procesar_agendas(fecha_por_defecto="2026-06-07"):
     with open(archivo_salida, 'w', encoding='utf-8') as f:
         json.dump(eventos_ordenados, f, ensure_ascii=False, indent=4)
         
-    print(f"\n[Proceso Completado]")
-    print(f"Se han organizado {len(eventos_ordenados)} transmisiones con la clave 'nombre'.")
-    print(f"Resultado estructurado correctamente en: '{archivo_salida}'")
+    print(f"\n[Proceso Completado con Éxito]")
+    print(f"Se han extraído de la web y organizado {len(eventos_ordenados)} transmisiones.")
+    print(f"Resultado final guardado en el archivo local: '{archivo_salida}'")
 
 if __name__ == "__main__":
-    procesar_agendas(fecha_por_defecto="2026-06-07")
+    # Puedes ajustar la fecha por defecto si algún evento web viene sin el campo estructurado
+    procesar_agendas_web(fecha_por_defecto="2026-06-07")
