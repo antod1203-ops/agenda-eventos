@@ -1,1130 +1,770 @@
 [
     {
-        "title": "Roland Garros – F. Cobolli (ITA) vs. A. Zverev (GER) | Final",
-        "fecha": "2026-06-07",
+        "title": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #2",
+        "fecha": "2026-06-08",
         "time": "08:00",
-        "category": "Tenis",
-        "link": "https://streamhdx.com/live1.php?stream=espn",
-        "nombre": "Espn"
+        "category": "Ciclismo",
+        "link": "https://tvtvhd.com/canales.php?stream=espn2",
+        "nombre": "ESPN 2"
     },
     {
-        "title": "Segunda División: Cerrito vs Atenas",
-        "fecha": "2026-06-07",
-        "time": "11:00",
+        "title": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #2",
+        "fecha": "2026-06-08",
+        "time": "08:00",
+        "category": "Ciclismo",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "nombre": "ESPN 2 | OP2"
+    },
+    {
+        "title": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #2",
+        "fecha": "2026-06-08",
+        "time": "08:00",
+        "category": "Ciclismo",
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "nombre": "ESPN 2 | OP3"
+    },
+    {
+        "title": "Torneo Maurice Revello Sub-20: Costa De Marfil vs Canadá",
+        "fecha": "2026-06-08",
+        "time": "08:00",
         "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=disney5",
-        "nombre": "Disney+"
+        "link": "https://la18hd.com/vivo/canales.php?stream=foxdeportes",
+        "nombre": "Foxdeportes"
     },
     {
-        "title": "Segunda División:Cerrito vs Atenas",
-        "fecha": "2026-06-07",
-        "time": "11:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney5",
-        "nombre": "Disney5"
-    },
-    {
-        "title": "Torneo Maurice Revello Sub-20: China PR vs Túnez",
-        "fecha": "2026-06-07",
-        "time": "11:00",
+        "title": "Torneo Maurice Revello Sub-20: Costa De Marfil vs Canadá",
+        "fecha": "2026-06-08",
+        "time": "08:00",
         "category": "Fútbol",
         "link": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
         "nombre": "FOX Deportes"
     },
     {
-        "title": "Torneo Maurice Revello Sub-20: China PR vs Túnez",
-        "fecha": "2026-06-07",
-        "time": "11:00",
+        "title": "Torneo Maurice Revello Sub-20: Costa De Marfil vs Canadá",
+        "fecha": "2026-06-08",
+        "time": "08:00",
         "category": "Fútbol",
         "link": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
         "nombre": "FOX Deportes | OP2"
     },
     {
-        "title": "Torneo Maurice Revello Sub-20: China PR vs Túnez",
-        "fecha": "2026-06-07",
-        "time": "11:00",
+        "title": "Torneo Maurice Revello Sub-20: Costa De Marfil vs Canadá",
+        "fecha": "2026-06-08",
+        "time": "08:00",
         "category": "Fútbol",
         "link": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
         "nombre": "FOX Deportes | OP3"
     },
     {
-        "title": "Amistoso: Dinamarca vs Ucrania",
-        "fecha": "2026-06-07",
+        "title": "Torneo Maurice Revello Sub-20: Venezuela vs Canadá",
+        "fecha": "2026-06-08",
         "time": "11:30",
         "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney4",
-        "nombre": "DISNEY4"
+        "link": "https://la18hd.com/vivo/canales.php?stream=foxdeportes",
+        "nombre": "Foxdeportes"
     },
     {
-        "title": "Amistoso: Dinamarca vs Ucrania",
-        "fecha": "2026-06-07",
+        "title": "Torneo Maurice Revello Sub-20: Venezuela vs Canadá",
+        "fecha": "2026-06-08",
         "time": "11:30",
         "category": "Fútbol",
-        "link": "https://la14hd.com/vivo/canales.php?stream=disney6",
-        "nombre": "Disney6"
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "nombre": "FOX Deportes"
     },
     {
-        "title": "Amistoso: Dinamarca vs Ucrania",
-        "fecha": "2026-06-07",
+        "title": "Torneo Maurice Revello Sub-20: Venezuela vs Canadá",
+        "fecha": "2026-06-08",
         "time": "11:30",
         "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=sportv",
-        "nombre": "Sportv"
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "nombre": "FOX Deportes | OP2"
     },
     {
-        "title": "Amistoso: Dinamarca vs Ucrania",
-        "fecha": "2026-06-07",
+        "title": "Torneo Maurice Revello Sub-20: Venezuela vs Canadá",
+        "fecha": "2026-06-08",
         "time": "11:30",
         "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=foxsports2_usa",
-        "nombre": "Foxsports2_usa"
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "nombre": "FOX Deportes | OP3"
     },
     {
-        "title": "Amistoso: Dinamarca vs Ucrania",
-        "fecha": "2026-06-07",
-        "time": "11:30",
+        "title": "Torneo de Reserva: Gimnasia La Plata vs Godoy Cruz",
+        "fecha": "2026-06-08",
+        "time": "13:00",
         "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=disney9",
+        "link": "https://la18hd.com/vivo/canales.php?stream=espn2",
+        "nombre": "Espn2"
+    },
+    {
+        "title": "Torneo de Reserva: Gimnasia La Plata vs Godoy Cruz",
+        "fecha": "2026-06-08",
+        "time": "13:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=espn2",
+        "nombre": "ESPN 2"
+    },
+    {
+        "title": "Torneo de Reserva: Gimnasia La Plata vs Godoy Cruz",
+        "fecha": "2026-06-08",
+        "time": "13:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "nombre": "ESPN 2 | OP2"
+    },
+    {
+        "title": "Torneo de Reserva: Gimnasia La Plata vs Godoy Cruz",
+        "fecha": "2026-06-08",
+        "time": "13:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "nombre": "ESPN 2 | OP3"
+    },
+    {
+        "title": "Amistoso: Países Bajos vs Uzbekistán",
+        "fecha": "2026-06-08",
+        "time": "13:45",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney1",
+        "nombre": "DISNEY1"
+    },
+    {
+        "title": "Amistoso: Países Bajos vs Uzbekistán",
+        "fecha": "2026-06-08",
+        "time": "13:45",
+        "category": "Fútbol",
+        "link": "https://la18hd.com/vivo/canales.php?stream=disney1",
+        "nombre": "Disney1"
+    },
+    {
+        "title": "Amistoso: Países Bajos vs Uzbekistán",
+        "fecha": "2026-06-08",
+        "time": "13:45",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=disney1",
         "nombre": "Disney+"
     },
     {
-        "title": "Amistoso: Dinamarca vs Ucrania",
-        "fecha": "2026-06-07",
-        "time": "11:30",
+        "title": "Amistoso: Países Bajos vs Uzbekistán",
+        "fecha": "2026-06-08",
+        "time": "13:45",
         "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=vix2",
-        "nombre": "Vix 2"
+        "link": "https://streamhdx.com/live1.php?stream=vix1",
+        "nombre": "Vix 1"
     },
     {
-        "title": "Amistoso: Dinamarca vs Ucrania",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=f2usa",
-        "nombre": "Fox Sports 2 USA"
-    },
-    {
-        "title": "Amistoso: Dinamarca vs Ucrania",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=sportv1pt",
-        "nombre": "SportTV 1 PT"
-    },
-    {
-        "title": "Amistoso: Dinamarca vs Ucrania",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=disney6",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Amistoso: Dinamarca vs Ucrania",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
-        "nombre": "Sportv BR"
-    },
-    {
-        "title": "Amistoso: Dinamarca vs Ucrania",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa",
-        "nombre": "Fox Sports 2 USA"
-    },
-    {
-        "title": "Copa de la Liga: La Serena vs Unión La Calera",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=max1",
-        "nombre": "MAX1"
-    },
-    {
-        "title": "Copa de la Liga: La Serena vs Unión La Calera",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=tntsportschile",
-        "nombre": "Tntsportschile"
-    },
-    {
-        "title": "Copa de la Liga: La Serena vs Unión La Calera",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://la14hd.com/vivo/canales.php?stream=max1",
-        "nombre": "Max1"
-    },
-    {
-        "title": "Copa de la Liga: La Serena vs Unión La Calera",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=max1",
-        "nombre": "Max 1"
-    },
-    {
-        "title": "Copa de la Liga: La Serena vs Unión La Calera",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "nombre": "TNT Sports Premiun CL"
-    },
-    {
-        "title": "Copa de la Liga: La Serena vs Unión La Calera",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "nombre": "TNT Sports Premiun CL OP2"
-    },
-    {
-        "title": "Copa de la Liga: Universidad Chile vs Audax Italiano",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=max2",
-        "nombre": "MAX2"
-    },
-    {
-        "title": "Copa de la Liga: Universidad Chile vs Audax Italiano",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=max2",
-        "nombre": "Max2"
-    },
-    {
-        "title": "Copa de la Liga: Universidad Chile vs Audax Italiano",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=max2",
-        "nombre": "MAX"
-    },
-    {
-        "title": "Copa de la Liga: Universidad de Chile vs Audax Italiano",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=max2",
-        "nombre": "Max 2"
-    },
-    {
-        "title": "Golf – The Memorial Tournament – Última Vuelta",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Otros Deportes",
-        "link": "https://tvtvhd.com/canales.php?stream=espn3",
-        "nombre": "ESPN 3"
-    },
-    {
-        "title": "Golf – The Memorial Tournament – Última Vuelta",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Otros Deportes",
-        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-        "nombre": "ESPN 3 | OP2"
-    },
-    {
-        "title": "Golf – The Memorial Tournament – Última Vuelta",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Otros Deportes",
-        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-        "nombre": "ESPN 3 | OP3"
-    },
-    {
-        "title": "Premier Padel Italia – Final Femenina",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Otros Deportes",
-        "link": "https://tvtvhd.com/canales.php?stream=espn4",
-        "nombre": "ESPN 4"
-    },
-    {
-        "title": "Premier Padel Italia – Final Femenina",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Otros Deportes",
-        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "nombre": "ESPN 4 | OP2"
-    },
-    {
-        "title": "Premier Padel Italia – Final Femenina",
-        "fecha": "2026-06-07",
-        "time": "11:30",
-        "category": "Otros Deportes",
-        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "nombre": "ESPN 4 | OP3"
-    },
-    {
-        "title": "UEFA U17 Championship Final: Bélgica vs Italia",
-        "fecha": "2026-06-07",
-        "time": "12:00",
+        "title": "Amistoso: Países Bajos vs Uzbekistán",
+        "fecha": "2026-06-08",
+        "time": "13:45",
         "category": "Fútbol",
         "link": "https://tvtvhd.com/canales.php?stream=espn",
         "nombre": "Disney+"
     },
     {
-        "title": "MLB – New York Yankees vs Boston Red Sox",
-        "fecha": "2026-06-07",
-        "time": "12:30",
-        "category": "Béisbol",
-        "link": "https://tvtvhd.com/canales.php?stream=espn5",
-        "nombre": "ESPN 5"
-    },
-    {
-        "title": "MLB – New York Yankees vs Boston Red Sox",
-        "fecha": "2026-06-07",
-        "time": "12:30",
-        "category": "Béisbol",
-        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
-        "nombre": "ESPN 5 | OP2"
-    },
-    {
-        "title": "MLB – New York Yankees vs Boston Red Sox",
-        "fecha": "2026-06-07",
-        "time": "12:30",
-        "category": "Béisbol",
-        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
-        "nombre": "ESPN 5 | OP3"
-    },
-    {
-        "title": "MLB: New York Yankees vs Boston Red Sox",
-        "fecha": "2026-06-07",
-        "time": "12:30",
-        "category": "Béisbol",
-        "link": "https://streamhdx.com/live1.php?stream=espn5",
-        "nombre": "ESPN 5"
-    },
-    {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:00",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espn",
         "nombre": "ESPN"
     },
     {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:00",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-        "nombre": "ESPN AR┃OP2"
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney2",
+        "nombre": "DISNEY2"
     },
     {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn",
-        "nombre": "ESPN AR┃OP3"
-    },
-    {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=disney9",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
-        "nombre": "Sportv BR"
-    },
-    {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa",
-        "nombre": "Fox Sports 2 USA"
-    },
-    {
-        "title": "Amistoso: Kosovo vs Andorra",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney5",
-        "nombre": "DISNEY5"
-    },
-    {
-        "title": "Amistoso: Kosovo vs Andorra",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney7",
-        "nombre": "Disney7"
-    },
-    {
-        "title": "Amistoso: Kosovo vs Andorra",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=disney10",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Amistoso: Kosovo vs Andorra",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=vix3",
-        "nombre": "Vix 3"
-    },
-    {
-        "title": "Amistoso: Kosovo vs Andorra",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=disney7",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Premier Padel Italia – Final Masculina",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Otros Deportes",
-        "link": "https://tvtvhd.com/canales.php?stream=espn4",
-        "nombre": "ESPN 4"
-    },
-    {
-        "title": "Premier Padel Italia – Final Masculina",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Otros Deportes",
-        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "nombre": "ESPN 4 | OP2"
-    },
-    {
-        "title": "Premier Padel Italia – Final Masculina",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Otros Deportes",
-        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "nombre": "ESPN 4 | OP3"
-    },
-    {
-        "title": "Primera División: Cerro vs Peñarol",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=disney11",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Primera División: Cerro vs Peñarol",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=disney8",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Primera Divisón: Cerro vs Peñarol",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney6",
-        "nombre": "DISNEY6"
-    },
-    {
-        "title": "Primera Divisón: Cerro vs Peñarol",
-        "fecha": "2026-06-07",
-        "time": "13:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney8",
-        "nombre": "Disney8"
-    },
-    {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:45",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney7",
-        "nombre": "DISNEY7"
-    },
-    {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:45",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
         "link": "https://la18hd.com/vivo/canales.php?stream=espn",
         "nombre": "Espn"
     },
     {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:45",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney9",
-        "nombre": "Disney9"
+        "link": "https://la18hd.com/vivo/canales.php?stream=disney2",
+        "nombre": "Disney2"
     },
     {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:45",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
         "link": "https://la18hd.com/vivo/canales.php?stream=sportv",
         "nombre": "Sportv"
     },
     {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:45",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
         "link": "https://la18hd.com/vivo/canales.php?stream=foxsports2_usa",
         "nombre": "Foxsports2_usa"
     },
     {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:45",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=disney12",
+        "link": "https://streamhdx.com/live1.php?stream=disney2",
         "nombre": "Disney+"
     },
     {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:45",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=vix4",
-        "nombre": "Vix 4"
-    },
-    {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:45",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
         "link": "https://streamhdx.com/live1.php?stream=espnar",
         "nombre": "ESPN AR"
     },
     {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:45",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
         "link": "https://streamhdx.com/live1.php?stream=espn",
         "nombre": "ESPN"
     },
     {
-        "title": "Amistoso: Croacia vs Eslovenia",
-        "fecha": "2026-06-07",
-        "time": "13:45",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=vix2",
+        "nombre": "Vix 2"
+    },
+    {
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=sporttvbr1",
+        "nombre": "SportTV BR 1"
+    },
+    {
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=sportv1pt",
+        "nombre": "SportTV 1 PT"
+    },
+    {
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
         "link": "https://streamhdx.com/live1.php?stream=f2usa",
         "nombre": "Fox Sports 2 USA"
     },
     {
-        "title": "Amistoso: Grecia vs Italia",
-        "fecha": "2026-06-07",
-        "time": "14:00",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney8",
-        "nombre": "DISNEY8"
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "nombre": "ESPN"
     },
     {
-        "title": "Amistoso: Grecia vs Italia",
-        "fecha": "2026-06-07",
-        "time": "14:00",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney10",
-        "nombre": "Disney10"
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "nombre": "ESPN AR┃OP2"
     },
     {
-        "title": "Amistoso: Grecia vs Italia",
-        "fecha": "2026-06-07",
-        "time": "14:00",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=disney13",
-        "nombre": "Disney+"
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "nombre": "ESPN AR┃OP3"
     },
     {
-        "title": "Amistoso: Grecia vs Italia",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=vix5",
-        "nombre": "Vix 5"
-    },
-    {
-        "title": "Amistoso: Grecia vs Italia",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=sportv1pt",
-        "nombre": "SportTV 1 PT"
-    },
-    {
-        "title": "Amistoso: Grecia vs Italia",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=evento12",
-        "nombre": "Fubo Sports Network"
-    },
-    {
-        "title": "Amistoso: Grecia vs Italia",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=disney10",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Amistoso: Marruecos vs Noruega",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=tycsports",
-        "nombre": "Tycsports"
-    },
-    {
-        "title": "Amistoso: Marruecos vs Noruega",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=espndeportes",
-        "nombre": "Espndeportes"
-    },
-    {
-        "title": "Amistoso: Marruecos vs Noruega",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=espndeportes",
-        "nombre": "Espn Deportes"
-    },
-    {
-        "title": "Amistoso: Marruecos vs Noruega",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=evento11",
-        "nombre": "XSports"
-    },
-    {
-        "title": "Amistoso: Marruecos vs Noruega",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tycsports",
-        "nombre": "TYC Sports"
-    },
-    {
-        "title": "Amistoso: Marruecos vs Noruega",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tycsports",
-        "nombre": "TyC Sports | OP2"
-    },
-    {
-        "title": "Amistoso: Marruecos vs Noruega",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tycsports",
-        "nombre": "TYC Sports | OP3"
-    },
-    {
-        "title": "Amistoso: Marruecos vs Noruega",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "nombre": "ESPN Deportes"
-    },
-    {
-        "title": "Amistoso: Marruecos vs Noruega",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "nombre": "ESPN Deportes  | OP2"
-    },
-    {
-        "title": "Amistoso: Marruecos vs Noruega",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
-        "nombre": "ESPN Deportes  | OP3"
-    },
-    {
-        "title": "Copa de la Liga: Huachipato vs Colo-Colo",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=max3",
-        "nombre": "MAX3"
-    },
-    {
-        "title": "Copa de la Liga: Huachipato vs Colo-Colo",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=tntsportschile",
-        "nombre": "Tntsportschile"
-    },
-    {
-        "title": "Copa de la Liga: Huachipato vs Colo-Colo",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=max3",
-        "nombre": "Max3"
-    },
-    {
-        "title": "Copa de la Liga: Huachipato vs Colo-Colo",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=max3",
-        "nombre": "Max 3"
-    },
-    {
-        "title": "Copa de la Liga: Huachipato vs Colo-Colo",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "nombre": "TNT Sports Premiun CL"
-    },
-    {
-        "title": "Copa de la Liga: Huachipato vs Colo-Colo",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "nombre": "TNT Sports Premiun CL OP2"
-    },
-    {
-        "title": "Copa de la Liga: Huachipato vs Colo-Colo",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=max3",
-        "nombre": "MAX"
-    },
-    {
-        "title": "LaLiga SmartBank: Las Palmas vs Málaga",
-        "fecha": "2026-06-07",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=hypermotion1",
-        "nombre": "LaLiga TV Hypermotion"
-    },
-    {
-        "title": "Primera B: Antofagasta vs Magallanes",
-        "fecha": "2026-06-07",
-        "time": "14:30",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "nombre": "TNT Sports Premiun CL"
-    },
-    {
-        "title": "Primera B: Antofagasta vs Magallanes",
-        "fecha": "2026-06-07",
-        "time": "14:30",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "nombre": "TNT Sports Premiun CL OP2"
-    },
-    {
-        "title": "Amistoso: Ecuador vs Guatemala",
-        "fecha": "2026-06-07",
-        "time": "15:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=eventos2",
-        "nombre": "EVENTOS2"
-    },
-    {
-        "title": "Amistoso: Ecuador vs Guatemala",
-        "fecha": "2026-06-07",
-        "time": "15:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=clarosports1",
-        "nombre": "Clarosports1"
-    },
-    {
-        "title": "Amistoso: Ecuador vs Guatemala",
-        "fecha": "2026-06-07",
-        "time": "15:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=dsportsar",
-        "nombre": "Dsports AR"
-    },
-    {
-        "title": "Amistoso: Ecuador vs Guatemala",
-        "fecha": "2026-06-07",
-        "time": "15:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=sportdigital",
-        "nombre": "Sportdigital"
-    },
-    {
-        "title": "Amistoso: Ecuador vs Guatemala",
-        "fecha": "2026-06-07",
-        "time": "15:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=clarosports1",
-        "nombre": "Claro Sports"
-    },
-    {
-        "title": "Copa Argentina: San Lorenzo vs Deportivo Riestra",
-        "fecha": "2026-06-07",
-        "time": "15:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tycsports",
-        "nombre": "TYC Sports"
-    },
-    {
-        "title": "Copa Argentina: San Lorenzo vs Deportivo Riestra",
-        "fecha": "2026-06-07",
-        "time": "15:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tycsports",
-        "nombre": "TyC Sports | OP2"
-    },
-    {
-        "title": "Copa Argentina: San Lorenzo vs Deportivo Riestra",
-        "fecha": "2026-06-07",
-        "time": "15:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tycsports",
-        "nombre": "TYC Sports | OP3"
-    },
-    {
-        "title": "Copa Argentina: San Lorenzo vs Deportivo Riestra",
-        "fecha": "2026-06-07",
-        "time": "15:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tycinternacional",
-        "nombre": "TyC Sports Internacional"
-    },
-    {
-        "title": "Copa Argentina: San Lorenzo vs Deportivo Riestra",
-        "fecha": "2026-06-07",
-        "time": "15:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canal.php?stream=tycinternacional",
-        "nombre": "TyC Sports Internacional | OP2"
-    },
-    {
-        "title": "Copa Argentina: San Lorenzo vs Deportivo Riestra",
-        "fecha": "2026-06-07",
-        "time": "15:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
-        "nombre": "TyC Sports International | OP3"
-    },
-    {
-        "title": "Segunda División: Tacuarembó vs Uruguay Montevideo",
-        "fecha": "2026-06-07",
-        "time": "16:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney12",
-        "nombre": "Disney12"
-    },
-    {
-        "title": "Segunda División: Tacuarembó vs Uruguay Montevideo",
-        "fecha": "2026-06-07",
-        "time": "16:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=disney12",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Primera División: Defensor Sporting vs Boston River",
-        "fecha": "2026-06-07",
-        "time": "16:30",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=disney14",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Primera División: Defensor Sporting vs Boston River",
-        "fecha": "2026-06-07",
-        "time": "16:30",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=disney11",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Primera Divisón: Defensor Sporting vs Boston River",
-        "fecha": "2026-06-07",
-        "time": "16:30",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney9",
-        "nombre": "DISNEY9"
-    },
-    {
-        "title": "Primera Divisón: Defensor Sporting vs Boston River",
-        "fecha": "2026-06-07",
-        "time": "16:30",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney11",
-        "nombre": "Disney11"
-    },
-    {
-        "title": "Copa de la Liga: Deportes Limache vs Everton",
-        "fecha": "2026-06-07",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=max4",
-        "nombre": "Max 4"
-    },
-    {
-        "title": "Copa de la Liga: O'Higgins vs Palestino",
-        "fecha": "2026-06-07",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=max5",
-        "nombre": "Max 5"
-    },
-    {
-        "title": "Primera Divisón: Deportes Limache vs Everton",
-        "fecha": "2026-06-07",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=max4",
-        "nombre": "MAX4"
-    },
-    {
-        "title": "Primera Divisón: Deportes Limache vs Everton",
-        "fecha": "2026-06-07",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=tntsportschile",
-        "nombre": "Tntsportschile"
-    },
-    {
-        "title": "Primera Divisón: Deportes Limache vs Everton",
-        "fecha": "2026-06-07",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "nombre": "TNT Sports Premiun CL"
-    },
-    {
-        "title": "Primera Divisón: Deportes Limache vs Everton",
-        "fecha": "2026-06-07",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "nombre": "TNT Sports Premiun CL OP2"
-    },
-    {
-        "title": "Primera Divisón: O'Higgins vs Palestino",
-        "fecha": "2026-06-07",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=max5",
-        "nombre": "MAX5"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=caracoltv",
-        "nombre": "CARACOLTV"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=rcnco",
-        "nombre": "RCNCO"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espndeportes",
-        "nombre": "ESPNDEPORTES"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=caracol",
-        "nombre": "Caracol"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=espndeportes",
-        "nombre": "Espndeportes"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=clarosports1",
-        "nombre": "Clarosports1"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=sportv",
-        "nombre": "Sportv"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=dsportsar",
-        "nombre": "Dsports AR"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=evento2",
-        "nombre": "Caracol TV"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=evento3",
-        "nombre": "Deportes RCN"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=sportv1pt",
-        "nombre": "SportTV 1 PT"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://streamhdx.com/live1.php?stream=espndeportes",
-        "nombre": "ESPN Deportes"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=caracol",
-        "nombre": "Caracol TV"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=clarosports1",
-        "nombre": "Claro Sports"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "nombre": "ESPN Deportes"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "nombre": "ESPN Deportes  | OP2"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
-        "category": "Fútbol",
-        "link": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
-        "nombre": "ESPN Deportes  | OP3"
-    },
-    {
-        "title": "Amistoso: Colombia vs Jordania",
-        "fecha": "2026-06-07",
-        "time": "18:00",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
         "category": "Fútbol",
         "link": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
         "nombre": "Sportv BR"
     },
     {
-        "title": "MLB – Chicago Cubs vs. San Francisco Giants",
-        "fecha": "2026-06-07",
-        "time": "19:00",
+        "title": "Amistoso: Francia vs Irlanda del Norte",
+        "fecha": "2026-06-08",
+        "time": "14:10",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa",
+        "nombre": "Fox Sports 2 USA"
+    },
+    {
+        "title": "Categoría Primera A: Atlético Nacional vs Junior",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "nombre": "Win Sports +"
+    },
+    {
+        "title": "Categoría Primera A: Atlético Nacional vs Junior",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "nombre": "Win Sports + | OP2"
+    },
+    {
+        "title": "Categoría Primera A: Atlético Nacional vs Junior",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "nombre": "Win Sports + | OP3"
+    },
+    {
+        "title": "Categoría Primera A: Atlético Nacional vs Junior | Final Vuelta",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=winplus",
+        "nombre": "Win Sports +"
+    },
+    {
+        "title": "Categoría Primera A: Atlético Nacional vs Junior | Final Vuelta",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=fanatiz1",
+        "nombre": "Fanatiz"
+    },
+    {
+        "title": "Primera División: Liverpool vs Cerro Largo",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=disney3",
+        "nombre": "Disney+"
+    },
+    {
+        "title": "Primera División: Liverpool vs Cerro Largo",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=espn",
+        "nombre": "Disney+"
+    },
+    {
+        "title": "Primera Divisíon: Atlético Nacional vs Junior | Final 2/2",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=winplus",
+        "nombre": "WINPLUS"
+    },
+    {
+        "title": "Primera Divisíon: Atlético Nacional vs Junior | Final 2/2",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=winplus2",
+        "nombre": "WINPLUS2"
+    },
+    {
+        "title": "Primera Divisíon: Atlético Nacional vs Junior | Final 2/2",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=fanatiz1",
+        "nombre": "FANATIZ1"
+    },
+    {
+        "title": "Primera Divisíon: Atlético Nacional vs Junior | Final 2/2",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=fanatiz2",
+        "nombre": "FANATIZ2"
+    },
+    {
+        "title": "Primera Divisíon: Atlético Nacional vs Junior | Final 2/2",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://la18hd.com/vivo/canales.php?stream=winsportsplus",
+        "nombre": "Winsportsplus"
+    },
+    {
+        "title": "Primera Divisíon: Atlético Nacional vs Junior | Final 2/2",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://la18hd.com/vivo/canales.php?stream=winsports2",
+        "nombre": "Winsports2"
+    },
+    {
+        "title": "Primera Divisíon: Atlético Nacional vs Junior | Final 2/2",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/winsports.html",
+        "nombre": "Español"
+    },
+    {
+        "title": "Primera Divisíon: Liverpool vs Cerro Largo",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney3",
+        "nombre": "DISNEY3"
+    },
+    {
+        "title": "Primera Divisíon: Liverpool vs Cerro Largo",
+        "fecha": "2026-06-08",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://la18hd.com/vivo/canales.php?stream=disney3",
+        "nombre": "Disney3"
+    },
+    {
+        "title": "MLB – Cleveland Guardians vs. New York Yankees",
+        "fecha": "2026-06-08",
+        "time": "17:30",
         "category": "Béisbol",
         "link": "https://tvtvhd.com/canales.php?stream=espn2",
         "nombre": "ESPN 2"
     },
     {
-        "title": "MLB – Chicago Cubs vs. San Francisco Giants",
-        "fecha": "2026-06-07",
-        "time": "19:00",
+        "title": "MLB – Cleveland Guardians vs. New York Yankees",
+        "fecha": "2026-06-08",
+        "time": "17:30",
         "category": "Béisbol",
         "link": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
         "nombre": "ESPN 2 | OP2"
     },
     {
-        "title": "MLB – Chicago Cubs vs. San Francisco Giants",
-        "fecha": "2026-06-07",
-        "time": "19:00",
+        "title": "MLB – Cleveland Guardians vs. New York Yankees",
+        "fecha": "2026-06-08",
+        "time": "17:30",
         "category": "Béisbol",
         "link": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
         "nombre": "ESPN 2 | OP3"
     },
     {
-        "title": "MLB: Chicago Cubs vs San Francisco Giants",
-        "fecha": "2026-06-07",
-        "time": "19:00",
+        "title": "MLB – Cleveland Guardians vs. New York Yankees",
+        "fecha": "2026-06-08",
+        "time": "18:00",
         "category": "Béisbol",
-        "link": "https://streamhdx.com/live1.php?stream=espn2",
-        "nombre": "ESPN 2"
+        "link": "https://la18hd.com/vivo/canales.php?stream=espn2",
+        "nombre": "Espn2"
     },
     {
-        "title": "Segunda División: Miramar Misiones vs Oriental",
-        "fecha": "2026-06-07",
-        "time": "19:00",
+        "title": "Primera B: Deportes Temuco vs Curicó Unido",
+        "fecha": "2026-06-08",
+        "time": "18:30",
         "category": "Fútbol",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney13",
-        "nombre": "Disney13"
+        "link": "https://la18hd.com/vivo/canales.php?stream=tntsportschile",
+        "nombre": "Tntsportschile"
     },
     {
-        "title": "Segunda División: Miramar Misiones vs Oriental",
-        "fecha": "2026-06-07",
-        "time": "19:00",
+        "title": "Primera B: Deportes Temuco vs Curicó Unido",
+        "fecha": "2026-06-08",
+        "time": "18:30",
         "category": "Fútbol",
-        "link": "https://tvtvhd.com/canales.php?stream=disney13",
+        "link": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+        "nombre": "TNT Sports Premiun CL"
+    },
+    {
+        "title": "Primera B: Deportes Temuco vs Curicó Unido",
+        "fecha": "2026-06-08",
+        "time": "18:30",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+        "nombre": "TNT Sports Premiun CL OP2"
+    },
+    {
+        "title": "NBA: New York Knicks vs San Antonio Spurs",
+        "fecha": "2026-06-08",
+        "time": "19:30",
+        "category": "Baloncesto",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=eventos2",
+        "nombre": "EVENTOS2"
+    },
+    {
+        "title": "NBA: New York Knicks vs San Antonio Spurs",
+        "fecha": "2026-06-08",
+        "time": "19:30",
+        "category": "Baloncesto",
+        "link": "https://streamhdx.com/live1.php?stream=nba1",
+        "nombre": "NBA League Pass"
+    },
+    {
+        "title": "NBA: New York Knicks vs San Antonio Spurs",
+        "fecha": "2026-06-08",
+        "time": "19:30",
+        "category": "Baloncesto",
+        "link": "https://streamhdx.com/live1.php?stream=amazon1",
+        "nombre": "Amazon Prime"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=americatv",
+        "nombre": "AMERICATV"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=tvla1es",
+        "nombre": "TVLA1ES"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=movistar_deportes_peru",
+        "nombre": "MOVISTAR_DEPORTES_PERU"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espnmx",
+        "nombre": "ESPNMX"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=vix1",
+        "nombre": "VIX1"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://la14hd.com/vivo/canales.php?stream=americatv",
+        "nombre": "Americatv"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://la18hd.com/vivo/canales.php?stream=movistar",
+        "nombre": "Movistar"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://la18hd.com/vivo/canales.php?stream=foxdeportes",
+        "nombre": "Foxdeportes"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://tv.la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE=",
+        "nombre": "español"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://la18hd.com/vivo/canales.php?stream=sportv",
+        "nombre": "Sportv"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://la18hd.com/vivo/canales.php?stream=espnmx",
+        "nombre": "Espnmx"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=espnar",
+        "nombre": "ESPN AR"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=atv",
+        "nombre": "ATV"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=evento1",
+        "nombre": "La 1 ES"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=americatv",
+        "nombre": "América TV"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=movistar_deportes_peru",
+        "nombre": "Movistar Deportes"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=evento1",
+        "nombre": "La 1 ES"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=disney4",
         "nombre": "Disney+"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=vix3",
+        "nombre": "Vix 3"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=espnmx",
+        "nombre": "ESPN MX"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=sporttvbr1",
+        "nombre": "SportTV BR 1"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamhdx.com/live1.php?stream=sportv1pt",
+        "nombre": "SportTV 1 PT"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=americatv",
+        "nombre": "America Television"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=espnmx",
+        "nombre": "ESPN MX"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
+        "nombre": "ESPN MX | OP2"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
+        "nombre": "ESPN MX | OP3"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=movistar",
+        "nombre": "Movistar Deportes"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=movistar",
+        "nombre": "Movistar Deportes I OP2"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=movistar",
+        "nombre": "Movistar Deportes | OP3"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "nombre": "ESPN"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "nombre": "ESPN AR┃OP2"
+    },
+    {
+        "title": "Amistoso: Perú vs España",
+        "fecha": "2026-06-08",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "nombre": "ESPN AR┃OP3"
     }
 ]
