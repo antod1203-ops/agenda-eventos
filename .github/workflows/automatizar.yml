@@ -1,9 +1,7 @@
-name: Actualizador de Eventos para Blogger
+name: Actualizador de Eventos
 
 on:
-  schedule:
-    - cron: '0 12,14,16 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Esto permite la ejecución manual
 
 jobs:
   ejecutar-extractor:
