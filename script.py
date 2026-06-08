@@ -196,7 +196,7 @@ def _parse_pltvhd(data, fecha_defecto):
 
 # --- PROCESADOR CENTRAL ---
 
-def procesar_agendas_web(fecha_por_defecto="2026-06-07"):
+def procesar_agendas_web(fecha_por_defecto):
     eventos_normalizados = []
     
     # Registro de endpoints mapeados con su respectivo analizador de estructura
@@ -218,6 +218,10 @@ def procesar_agendas_web(fecha_por_defecto="2026-06-07"):
                 except Exception as parse_err:
                     print(f"Error procesando el formato interno de {target['url']}: {parse_err}")
 
+    if not eventos_normalizados:
+        print("\nNo se pudieron extraer eventos de ninguna fuente.")
+        return
+
     # Ordenamiento global estricto: 1º Fecha, 2º Hora, 3º Título alfabético
     print("\nOrganizando y ordenando los eventos globalmente...")
     eventos_ordenados = sorted(
@@ -234,6 +238,10 @@ def procesar_agendas_web(fecha_por_defecto="2026-06-07"):
     print(f"Se han extraído de la web y organizado {len(eventos_ordenados)} transmisiones.")
     print(f"Resultado final guardado en el archivo local: '{archivo_salida}'")
 
+# --- PUNTO DE ENTRADA ---
 if __name__ == "__main__":
-    # Obtiene automáticamente la fecha de hoy en formato AAAA-MM-DD (ej: "2026-06-07")
+    # Obtiene automáticamente la fecha de hoy en formato AAAA-MM-DD
     fecha_hoy_automatica = datetime.now().strftime("%Y-%m-%d")
+    
+    # Ejecuta el procesador central pasando la fecha actual
+    procesar_agendas_web(fecha_hoy_automatica)
