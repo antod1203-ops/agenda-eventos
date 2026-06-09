@@ -1,259 +1,115 @@
 [
     {
-        "title": "Amistoso: Armenia vs Moldavia",
+        "title": "Serie B: Náutico vs Fortaleza",
         "fecha": "2026-06-09",
-        "time": "10:00",
+        "time": "17:00",
         "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney1",
-        "nombre": "DISNEY1"
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+        "nombre": "Sportv BR"
     },
     {
-        "title": "Amistoso: Armenia vs Moldavia",
+        "title": "Torneo de Reserva: River Plate vs Rosario Central",
         "fecha": "2026-06-09",
-        "time": "10:00",
+        "time": "17:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=disney1",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Amistoso: Armenia vs Moldavia",
-        "fecha": "2026-06-09",
-        "time": "10:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=vix1",
-        "nombre": "Vix 1"
-    },
-    {
-        "title": "Amistoso: Armenia vs Moldavia",
-        "fecha": "2026-06-09",
-        "time": "10:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
-        "nombre": "SportTV BR 1"
-    },
-    {
-        "title": "Amistoso: Letonia vs Islas Feroe",
-        "fecha": "2026-06-09",
-        "time": "10:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney2",
-        "nombre": "DISNEY2"
-    },
-    {
-        "title": "Amistoso: Letonia vs Islas Feroe",
-        "fecha": "2026-06-09",
-        "time": "10:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=disney2",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Amistoso: Letonia vs Islas Feroe",
-        "fecha": "2026-06-09",
-        "time": "10:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=vix2",
-        "nombre": "Vix 2"
-    },
-    {
-        "title": "Amistoso: Lituania vs Estonia",
-        "fecha": "2026-06-09",
-        "time": "10:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=disney3",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Amistoso: Lituania vs Estonia",
-        "fecha": "2026-06-09",
-        "time": "10:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=vix3",
-        "nombre": "Vix 3"
-    },
-    {
-        "title": "Amistoso: RD del Congo vs Chile",
-        "fecha": "2026-06-09",
-        "time": "10:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=evento5",
-        "nombre": "Chilevisión"
-    },
-    {
-        "title": "Amistoso: Lituania vs Estonia",
-        "fecha": "2026-06-09",
-        "time": "11:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney3",
-        "nombre": "DISNEY3"
-    },
-    {
-        "title": "Amistoso: RD del Congo vs Chile",
-        "fecha": "2026-06-09",
-        "time": "11:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=eventos3",
-        "nombre": "EVENTOS3"
-    },
-    {
-        "title": "Amistoso: Bielorrusia vs Burkina Faso",
-        "fecha": "2026-06-09",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney4",
-        "nombre": "DISNEY4"
-    },
-    {
-        "title": "Amistoso: Bielorrusia vs Burkina Faso",
-        "fecha": "2026-06-09",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=disney4",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Amistoso: Bielorrusia vs Burkina Faso",
-        "fecha": "2026-06-09",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=vix4",
-        "nombre": "Vix 4"
-    },
-    {
-        "title": "Amistoso: Hungría vs Kazajistán",
-        "fecha": "2026-06-09",
-        "time": "12:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=disney5",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Amistoso: Hungría vs Kazajistán",
-        "fecha": "2026-06-09",
-        "time": "12:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=vix5",
-        "nombre": "Vix 5"
-    },
-    {
-        "title": "Amistoso: Hungría vs Kazajistán",
-        "fecha": "2026-06-09",
-        "time": "12:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
-        "nombre": "SportTV BR 1"
-    },
-    {
-        "title": "Amistoso: Hungría vs Kazajistán",
-        "fecha": "2026-06-09",
-        "time": "12:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=f2usa",
-        "nombre": "Fox Sports 2 USA"
-    },
-    {
-        "title": "Amistoso: Hungría vs Kazajstán",
-        "fecha": "2026-06-09",
-        "time": "12:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney5",
-        "nombre": "DISNEY5"
-    },
-    {
-        "title": "Clasificatorias Mundial Femenino: Suecia vs Italia",
-        "fecha": "2026-06-09",
-        "time": "12:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=disney6",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Clasificatorias Mundial Femenino: Suecia vs Italia",
-        "fecha": "2026-06-09",
-        "time": "12:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=espn2ar",
-        "nombre": "ESPN 2 AR"
-    },
-    {
-        "title": "Clasificatorias Mundial Femenino: Suecia vs Italia",
-        "fecha": "2026-06-09",
-        "time": "12:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=espn2",
+        "link": "https://tvtvhd.com/canales.php?stream=espn2",
         "nombre": "ESPN 2"
     },
     {
-        "title": "Amistoso: Azerbaiyán vs San Marino",
+        "title": "Torneo de Reserva: River Plate vs Rosario Central",
         "fecha": "2026-06-09",
-        "time": "13:00",
+        "time": "17:00",
         "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney6",
-        "nombre": "DISNEY6"
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "nombre": "ESPN 2 | OP2"
     },
     {
-        "title": "Amistoso: Azerbaiyán vs San Marino",
+        "title": "Torneo de Reserva: River Plate vs Rosario Central",
         "fecha": "2026-06-09",
-        "time": "13:00",
+        "time": "17:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=disney7",
-        "nombre": "Disney+"
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "nombre": "ESPN 2 | OP3"
     },
     {
-        "title": "Amistoso: Azerbaiyán vs San Marino",
+        "title": "CONMEBOL Nations League Femenina: Ecuador vs Argentina",
         "fecha": "2026-06-09",
-        "time": "13:00",
+        "time": "18:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=vix6",
-        "nombre": "Vix 6"
+        "link": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "nombre": "DSports +"
     },
     {
-        "title": "Clasificatorias Mundial Femenino: Francia vs República de Irlanda",
+        "title": "CONMEBOL Nations League Femenina: Paraguay vs Colombia",
         "fecha": "2026-06-09",
-        "time": "14:00",
+        "time": "18:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=disney9",
-        "nombre": "Disney+"
+        "link": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "nombre": "DSports +"
     },
     {
-        "title": "Clasificatorias Mundial Femenino: Francia vs República de Irlanda",
+        "title": "CONMEBOL Nations League Femenina: Perú vs Bolivia",
         "fecha": "2026-06-09",
-        "time": "14:00",
+        "time": "18:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=espn2ar",
-        "nombre": "ESPN 2 AR"
+        "link": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "nombre": "DSports +"
     },
     {
-        "title": "Clasificatorias Mundial Femenino: Francia vs República de Irlanda",
+        "title": "CONMEBOL Nations League Femenina: Uruguay vs Venezuela",
         "fecha": "2026-06-09",
-        "time": "14:00",
+        "time": "18:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=espn2",
+        "link": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "nombre": "DSports +"
+    },
+    {
+        "title": "WNBA – Chicago vs Atlanta",
+        "fecha": "2026-06-09",
+        "time": "18:00",
+        "category": "Baloncesto",
+        "link": "https://tvtvhd.com/canales.php?stream=espn3",
+        "nombre": "ESPN 3"
+    },
+    {
+        "title": "WNBA – Chicago vs Atlanta",
+        "fecha": "2026-06-09",
+        "time": "18:00",
+        "category": "Baloncesto",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+        "nombre": "ESPN 3 | OP2"
+    },
+    {
+        "title": "WNBA – Chicago vs Atlanta",
+        "fecha": "2026-06-09",
+        "time": "18:00",
+        "category": "Baloncesto",
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+        "nombre": "ESPN 3 | OP3"
+    },
+    {
+        "title": "NHL – Juego #4 – Vegas Golden Knights vs Carolina Hurricanes",
+        "fecha": "2026-06-09",
+        "time": "19:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=espn2",
         "nombre": "ESPN 2"
     },
     {
-        "title": "Clasificatorias Mundial Femenino: Inglaterra vs Ucrania",
+        "title": "NHL – Juego #4 – Vegas Golden Knights vs Carolina Hurricanes",
         "fecha": "2026-06-09",
-        "time": "14:00",
+        "time": "19:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=disney8",
-        "nombre": "Disney+"
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "nombre": "ESPN 2 | OP2"
     },
     {
-        "title": "Clasificatorias Mundial Femenino: Islandia vs España",
+        "title": "NHL – Juego #4 – Vegas Golden Knights vs Carolina Hurricanes",
         "fecha": "2026-06-09",
-        "time": "14:00",
+        "time": "19:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=evento9",
-        "nombre": "TDP ES"
-    },
-    {
-        "title": "LaLiga SmartBank: Almería vs CD Castellón",
-        "fecha": "2026-06-09",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=espndeportes",
-        "nombre": "ESPN Deportes"
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "nombre": "ESPN 2 | OP3"
     },
     {
         "title": "Amistoso Femenino: Brasil vs EE. UU.",
@@ -280,6 +136,14 @@
         "nombre": "SportTV BR 1"
     },
     {
+        "title": "Amistoso Internacional Femenino: Brasil vs EE. UU.",
+        "fecha": "2026-06-09",
+        "time": "19:30",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+        "nombre": "Sportv BR"
+    },
+    {
         "title": "Amistoso: Argentina vs Islandia",
         "fecha": "2026-06-09",
         "time": "20:00",
@@ -294,6 +158,38 @@
         "category": "Fútbol",
         "link": "https://streamtp-x-y-z.ws/global1.php?stream=espndeportes",
         "nombre": "ESPNDEPORTES"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://la18hd.com/vivo/canales.php?stream=tycsports",
+        "nombre": "Tycsports"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://la18hd.com/vivo/canales.php?stream=dsports",
+        "nombre": "Dsports"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://la18hd.com/vivo/canales.php?stream=telefe",
+        "nombre": "Telefe"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://la18hd.com/vivo/canales.php?stream=espndeportes",
+        "nombre": "Espndeportes"
     },
     {
         "title": "Amistoso: Argentina vs Islandia",
@@ -344,6 +240,110 @@
         "nombre": "Vix 7"
     },
     {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=dsports",
+        "nombre": "DSports"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
+        "nombre": "DSports | OP2"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
+        "nombre": "DSports | OP3"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=tycsports",
+        "nombre": "TYC Sports"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=tycsports",
+        "nombre": "TyC Sports | OP2"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=tycsports",
+        "nombre": "TYC Sports | OP3"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=telefe",
+        "nombre": "Telefe"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=espndeportes",
+        "nombre": "ESPN Deportes"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
+        "nombre": "ESPN Deportes  | OP2"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+        "nombre": "ESPN Deportes  | OP3"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/canales.php?stream=tycinternacional",
+        "nombre": "TyC Sports Internacional"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=tycinternacional",
+        "nombre": "TyC Sports Internacional | OP2"
+    },
+    {
+        "title": "Amistoso: Argentina vs Islandia",
+        "fecha": "2026-06-09",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
+        "nombre": "TyC Sports International | OP3"
+    },
+    {
         "title": "Amistoso: Iraq vs Venezuela",
         "fecha": "2026-06-09",
         "time": "20:00",
@@ -358,5 +358,29 @@
         "category": "Fútbol",
         "link": "https://stream-xhd.com/live1.php?stream=evento2",
         "nombre": "Eventos"
+    },
+    {
+        "title": "MLB: San Diego Padres vs Cincinnati Reds",
+        "fecha": "2026-06-09",
+        "time": "20:30",
+        "category": "Béisbol",
+        "link": "https://tvtvhd.com/canales.php?stream=espn3",
+        "nombre": "ESPN 3"
+    },
+    {
+        "title": "MLB: San Diego Padres vs Cincinnati Reds",
+        "fecha": "2026-06-09",
+        "time": "20:30",
+        "category": "Béisbol",
+        "link": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+        "nombre": "ESPN 3 | OP2"
+    },
+    {
+        "title": "MLB: San Diego Padres vs Cincinnati Reds",
+        "fecha": "2026-06-09",
+        "time": "20:30",
+        "category": "Béisbol",
+        "link": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+        "nombre": "ESPN 3 | OP3"
     }
 ]
