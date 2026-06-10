@@ -1,114 +1,458 @@
 [
     {
-        "title": "Amistoso Femenino: Brasil vs EE. UU.",
-        "fecha": "2026-06-09",
-        "time": "19:30",
+        "title": "LaLiga2: Málaga vs Las Palmas",
+        "fecha": "2026-06-10",
+        "time": "14:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=peacock1",
-        "nombre": "Peacock TV"
+        "link": "https://stream-xhd.com/live1.php?stream=espn2ar",
+        "nombre": "ESPN 2 AR"
     },
     {
-        "title": "Amistoso Femenino: Brasil vs EE. UU.",
-        "fecha": "2026-06-09",
-        "time": "19:30",
+        "title": "LaLiga2: Málaga vs Las Palmas",
+        "fecha": "2026-06-10",
+        "time": "14:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=max1",
-        "nombre": "Max"
+        "link": "https://stream-xhd.com/live1.php?stream=espn2",
+        "nombre": "ESPN 2"
     },
     {
-        "title": "Amistoso Femenino: Brasil vs EE. UU.",
-        "fecha": "2026-06-09",
-        "time": "19:30",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
-        "nombre": "SportTV BR 1"
-    },
-    {
-        "title": "Amistoso: Argentina vs Islandia",
-        "fecha": "2026-06-09",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
-        "nombre": "TYCSPORTS"
-    },
-    {
-        "title": "Amistoso: Argentina vs Islandia",
-        "fecha": "2026-06-09",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espndeportes",
-        "nombre": "ESPNDEPORTES"
-    },
-    {
-        "title": "Amistoso: Argentina vs Islandia",
-        "fecha": "2026-06-09",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=telefe",
-        "nombre": "TELEFE"
-    },
-    {
-        "title": "Amistoso: Argentina vs Islandia",
-        "fecha": "2026-06-09",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=evento1",
-        "nombre": "Dsports"
-    },
-    {
-        "title": "Amistoso: Argentina vs Islandia",
-        "fecha": "2026-06-09",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=tycsports",
-        "nombre": "TyC Sports"
-    },
-    {
-        "title": "Amistoso: Argentina vs Islandia",
-        "fecha": "2026-06-09",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=telefe",
-        "nombre": "Telefe"
-    },
-    {
-        "title": "Amistoso: Argentina vs Islandia",
-        "fecha": "2026-06-09",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=evento6",
-        "nombre": "CazéTV"
-    },
-    {
-        "title": "Amistoso: Argentina vs Islandia",
-        "fecha": "2026-06-09",
-        "time": "20:00",
+        "title": "LaLiga2: Málaga vs Las Palmas",
+        "fecha": "2026-06-10",
+        "time": "14:00",
         "category": "Fútbol",
         "link": "https://stream-xhd.com/live1.php?stream=espndeportes",
         "nombre": "ESPN Deportes"
     },
     {
-        "title": "Amistoso: Argentina vs Islandia",
-        "fecha": "2026-06-09",
-        "time": "20:00",
+        "title": "LaLiga2: Málaga vs Las Palmas",
+        "fecha": "2026-06-10",
+        "time": "14:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=vix7",
-        "nombre": "Vix 7"
+        "link": "https://stream-xhd.com/live1.php?stream=laligahypermotion",
+        "nombre": "LaLiga TV Hypermotion"
     },
     {
-        "title": "Amistoso: Iraq vs Venezuela",
-        "fecha": "2026-06-09",
-        "time": "20:00",
+        "title": "Liga 2: Málaga vs Las Palmas",
+        "fecha": "2026-06-10",
+        "time": "14:00",
         "category": "Fútbol",
-        "link": "https://streamtp-x-y-z.ws/global1.php?stream=eventos2",
-        "nombre": "EVENTOS2"
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney1",
+        "nombre": "DISNEY1"
     },
     {
-        "title": "Amistoso: Iraq vs Venezuela",
-        "fecha": "2026-06-09",
-        "time": "20:00",
+        "title": "Liga 2: Málaga vs Las Palmas",
+        "fecha": "2026-06-10",
+        "time": "14:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=evento2",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espn2",
+        "nombre": "ESPN2"
+    },
+    {
+        "title": "Liga 2: Málaga vs Las Palmas",
+        "fecha": "2026-06-10",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espnplus1",
+        "nombre": "ESPNPLUS1"
+    },
+    {
+        "title": "Amistoso: Portugal vs Nigeria",
+        "fecha": "2026-06-10",
+        "time": "14:45",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espn",
+        "nombre": "ESPN"
+    },
+    {
+        "title": "Amistoso: Portugal vs Nigeria",
+        "fecha": "2026-06-10",
+        "time": "14:45",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney2",
+        "nombre": "DISNEY2"
+    },
+    {
+        "title": "Amistoso: Portugal vs Nigeria",
+        "fecha": "2026-06-10",
+        "time": "14:45",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=vix1",
+        "nombre": "VIX1"
+    },
+    {
+        "title": "Amistoso: Portugal vs Nigeria",
+        "fecha": "2026-06-10",
+        "time": "14:45",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=disney1",
+        "nombre": "Disney+"
+    },
+    {
+        "title": "Amistoso: Portugal vs Nigeria",
+        "fecha": "2026-06-10",
+        "time": "14:45",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=espnar",
+        "nombre": "ESPN AR"
+    },
+    {
+        "title": "Amistoso: Portugal vs Nigeria",
+        "fecha": "2026-06-10",
+        "time": "14:45",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=vix1",
+        "nombre": "Vix 1"
+    },
+    {
+        "title": "Amistoso: Portugal vs Nigeria",
+        "fecha": "2026-06-10",
+        "time": "14:45",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=espn",
+        "nombre": "ESPN"
+    },
+    {
+        "title": "Amistoso: Portugal vs Nigeria",
+        "fecha": "2026-06-10",
+        "time": "14:45",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
+        "nombre": "SportTV BR 1"
+    },
+    {
+        "title": "Amistoso: Bolivia vs Argelia",
+        "fecha": "2026-06-10",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=evento3",
         "nombre": "Eventos"
+    },
+    {
+        "title": "Amistoso: Inglaterra vs Costa Rica",
+        "fecha": "2026-06-10",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=vix2",
+        "nombre": "VIX2"
+    },
+    {
+        "title": "Amistoso: Inglaterra vs Costa Rica",
+        "fecha": "2026-06-10",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=disney3",
+        "nombre": "DISNEY3"
+    },
+    {
+        "title": "Amistoso: Inglaterra vs Costa Rica",
+        "fecha": "2026-06-10",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=disney2",
+        "nombre": "Disney+"
+    },
+    {
+        "title": "Amistoso: Inglaterra vs Costa Rica",
+        "fecha": "2026-06-10",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=vix2",
+        "nombre": "Vix 2"
+    },
+    {
+        "title": "Amistoso: Inglaterra vs Costa Rica",
+        "fecha": "2026-06-10",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=f2usa",
+        "nombre": "Fox Sports 2 USA"
+    },
+    {
+        "title": "MLB: New York Mets vs. St. Louis Cardinals",
+        "fecha": "2026-06-10",
+        "time": "18:00",
+        "category": "Béisbol",
+        "link": "https://stream-xhd.com/live1.php?stream=espn5",
+        "nombre": "Espn 5"
+    },
+    {
+        "title": "NBA: Spurs vs Knicks - Finals Game #4",
+        "fecha": "2026-06-10",
+        "time": "19:30",
+        "category": "Baloncesto",
+        "link": "https://streamtp-x-y-z.ws/global1.php?stream=espndeportes",
+        "nombre": "ESPNDEPORTES"
+    },
+    {
+        "title": "MLB: Oakland Athletics vs. Milwaukee Brewers",
+        "fecha": "2026-06-10",
+        "time": "20:00",
+        "category": "Béisbol",
+        "link": "https://stream-xhd.com/live1.php?stream=disney1",
+        "nombre": "Disney+"
+    },
+    {
+        "title": "NBA: New York Knicks vs San Antonio Spurs",
+        "fecha": "2026-06-10",
+        "time": "21:30",
+        "category": "Baloncesto",
+        "link": "https://stream-xhd.com/live1.php?stream=espndeportes",
+        "nombre": "ESPN Deportes"
+    },
+    {
+        "title": "NBA: New York Knicks vs San Antonio Spurs",
+        "fecha": "2026-06-10",
+        "time": "21:30",
+        "category": "Baloncesto",
+        "link": "https://stream-xhd.com/live1.php?stream=amazon1",
+        "nombre": "Amazon Prime"
+    },
+    {
+        "title": "NBA: New York Knicks vs San Antonio Spurs",
+        "fecha": "2026-06-10",
+        "time": "21:30",
+        "category": "Baloncesto",
+        "link": "https://stream-xhd.com/live1.php?stream=nba1",
+        "nombre": "NBA League Pass"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=dsportsar",
+        "nombre": "Dsports AR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=disney1",
+        "nombre": "Disney +"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telefe",
+        "nombre": "Telefe"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=paramount1",
+        "nombre": "Paramount +"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=vix1",
+        "nombre": "VIX +"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=canal5mx",
+        "nombre": "Canal 5 MX"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=tudnmx",
+        "nombre": "TUDN MX"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=azteca7",
+        "nombre": "Azteca 7"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=genpy",
+        "nombre": "Gen PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=trecepy",
+        "nombre": "Trece PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=americatv",
+        "nombre": "America TV PE"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=la1es",
+        "nombre": "La 1 ES"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
+        "nombre": "Telemundo USA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=peacock1",
+        "nombre": "Peacock USA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=evento5",
+        "nombre": "Deportes RCN"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=evento6",
+        "nombre": "Caracol TV"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
+        "nombre": "SportTV BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: México vs. Sudáfrica",
+        "fecha": "2026-06-11",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=evento10",
+        "nombre": "CazéTV BR"
+    },
+    {
+        "title": "MLB: Baltimore Orioles vs. Seattle Mariners",
+        "fecha": "2026-06-11",
+        "time": "18:00",
+        "category": "Béisbol",
+        "link": "https://stream-xhd.com/live1.php?stream=espn3",
+        "nombre": "ESPN 3"
+    },
+    {
+        "title": "NHL: Juego #4 – Vegas Golden Knights vs. Carolina Hurricanes",
+        "fecha": "2026-06-11",
+        "time": "19:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=espn2",
+        "nombre": "ESPN 2"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Corea del Sur vs República Checa",
+        "fecha": "2026-06-11",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=dsportsar",
+        "nombre": "Dsports AR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Corea del Sur vs República Checa",
+        "fecha": "2026-06-11",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=tycsports",
+        "nombre": "TYC Sports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Corea del Sur vs República Checa",
+        "fecha": "2026-06-11",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=paramount1",
+        "nombre": "Paramount +"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Corea del Sur vs República Checa",
+        "fecha": "2026-06-11",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=evento10",
+        "nombre": "CazéTV BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Corea del Sur vs República Checa",
+        "fecha": "2026-06-11",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=vix1",
+        "nombre": "VIX +"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Corea del Sur vs República Checa",
+        "fecha": "2026-06-11",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=genpy",
+        "nombre": "Gen PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Corea del Sur vs República Checa",
+        "fecha": "2026-06-11",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=trecepy",
+        "nombre": "Trece PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Corea del Sur vs República Checa",
+        "fecha": "2026-06-11",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
+        "nombre": "Telemundo USA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Corea del Sur vs República Checa",
+        "fecha": "2026-06-11",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=peacock1",
+        "nombre": "Peacock USA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Corea del Sur vs República Checa",
+        "fecha": "2026-06-11",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=fs1usa",
+        "nombre": "Fox Sports 1 USA"
     }
 ]
